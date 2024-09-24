@@ -1,4 +1,4 @@
-# zed-sans-vencord
+# zed-font-vencord
 I just wanted a GitHub repo to host this font ngl
 
 
