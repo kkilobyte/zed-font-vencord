@@ -2,15 +2,15 @@
  * @name Zed-Sans Font
  * @author kxcv
  * @authorId 1113978877010788432
- * @version 1.0
+ * @version 1.1
  * @description Cool Zed-Sans Font for Discord
- * @website https://github.com/kkilobyte/zed-sans-vencord
+ * @website https://github.com/kkilobyte/zed-font-vencord
  * @invite MUdFYE7vqW
  * **/
 
 @font-face {
   font-family: 'Zed-Sans';
-  src: url('https://github.com/kkilobyte/zed-sans-vencord/raw/refs/heads/main/zed-sans-regular.ttf');
+  src: url('https://github.com/kkilobyte/zed-font-vencord/raw/refs/heads/main/zed-sans-regular.ttf');
 }
 
 body {
